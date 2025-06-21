@@ -1,25 +1,35 @@
-# 👋 Hi there, I'm Kiran Santosh Rathod!
+# 👋 Hey there, I'm Kiran Santosh Rathod!
 
-🎓 I'm a Computer Science Engineering student at Vishwakarma Institute of Technology, Pune.  
-💻 Passionate MERN Stack Developer | Cybersecurity | Blockchain | IoT | Web3 Enthusiast
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning: Advanced backend (Node.js, MongoDB), Blockchain fundamentals
-- 💼 Building: Mock interview platforms, portfolio tools, full-stack projects
-- 📬 Reach me at: **kiran.s.rathod04@gmail.com**
+🎓 CSE Student at **Vishwakarma Institute of Technology, Pune**  
+💻 Full-Stack Developer | Mern Devloper |
 
 ---
 
-## 🧰 Tech Stack
+## 🌐 Portfolio
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+🌍 Check out my work here:  
+🔗 **[kirran-dev.onrender.com](https://kirran-dev.onrender.com/)**
+
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ Languages & Tools
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📡 Realtime & System Tools
+
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=webrtc)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ---
 
@@ -31,11 +41,18 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kiran04-code&theme=radical)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=kiran04-code&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📬 Contact Me
+
+- 📧 **Email:** kiran.s.rathod04@gmail.com  
+- 🌐 **Portfolio:** [kirran-dev.onrender.com](https://kirran-dev.onrender.com/)  
+- 🛠️ Always building... always learning...
 
 ---
 
 ## 🧠 Fun Fact
 
-I love building practical tools with real-world impact — and experimenting with AI + Web3 integrations.
+> I love working on real-time applications like video calls and chat apps — and I’m deeply passionate about performance optimization, clean UI, and scalable backend systems.
 
