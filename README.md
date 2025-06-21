@@ -1,58 +1,89 @@
-# 👋 Hey there, I'm Kiran Santosh Rathod!
+<h1 align="center">Hey 👋, I'm Kiran Santosh Rathod</h1>
 
-🎓 CSE Student at **Vishwakarma Institute of Technology, Pune**  
-💻 Full-Stack Developer | Mern Devloper |
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F7FF&vCenter=true&center=true&multiline=true&width=700&height=80&lines=👋+Hi%2C+I'm+Kiran+Santosh+Rathod!;💻+Full-Stack+MERN+Developer;" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Coding Animation" />
+</p>
 
 ---
 
 ## 🌐 Portfolio
 
-🌍 Check out my work here:  
-🔗 **[kirran-dev.onrender.com](https://kirran-dev.onrender.com/)**
+> 🚀 Check out my work:  
+> 🔗 **[kirran-dev.onrender.com](https://kirran-dev.onrender.com/)**
 
 ---
 
-## 🚀 Tech Stack
+## 💡 About Me
 
-### 🖥️ Languages & Tools
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📡 Realtime & System Tools
-
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=webrtc)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+🎓 CSE Student at **Vishwakarma Institute of Technology, Pune**  
+💻 I love building full-stack, real-time web apps with **performance + design** in mind.  
+🌱 Currently learning: `Docker`, `WebRTC`, `Solidity`, and `DevOps`  
+⚡ Interests: Web3, Cybersecurity, IoT, and Open Source!
 
 ---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages, Frameworks & Libraries
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Real-Time Systems
+
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
 ## 📈 GitHub Stats
 
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiran04-code&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiran04-code&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran04-code&layout=compact&theme=radical&hide_border=true" height="180" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran04-code&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kiran04-code&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kiran04-code&theme=radical)](https://git.io/streak-stats)
+---
 
-### 📊 Recent Activity (June 1–21, 2025)
+## 🚀 June 2025 Highlights (🔥 311 Contributions)
 
-[![June 2025 Contributions](https://github-contributions-api.jogruber.de/v4/kiran04-code?from=2025-06-01&to=2025-06-21&theme=radical)](https://github.com/kiran04-code)
+[![June Contributions](https://github-contributions-api.jogruber.de/v4/kiran04-code?from=2025-06-01&to=2025-06-21&theme=react)](https://github.com/kiran04-code)
+
+---
 
 ## 📬 Contact Me
 
-- 📧 **Email:** kiran.s.rathod04@gmail.com  
-- 🌐 **Portfolio:** [kirran-dev.onrender.com](https://kirran-dev.onrender.com/)  
-- 🛠️ Always building... always learning...
+- 📧 Email: **kr551344@gmail.com**
+- 🌐 Portfolio: [kirran-dev.onrender.com](https://kirran-dev.onrender.com/)
+- 💼 LinkedIn :[https://www.linkedin.com/in/kiran-rathod-66b009331/]
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kiran04-code&style=for-the-badge&color=red" alt="Profile Views" />
+</p>
 
 ---
 
-## 🧠 Fun Fact
+## 🎯 Fun Fact
 
-> I love working on real-time applications like video calls and chat apps — and I’m deeply passionate about performance optimization, clean UI, and scalable backend systems.
+> I don't just code. I **design**, **debug**, and **deliver** 🚀  
+> Whether it’s **real-time video chats** or **decentralized apps**, I love pushing limits.
+
+---
 
