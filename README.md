@@ -32,7 +32,6 @@
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ---
-
 ## 📈 GitHub Stats
 
 ![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiran04-code&show_icons=true&theme=radical)
@@ -41,8 +40,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kiran04-code&theme=radical)](https://git.io/streak-stats)
 
+### 📊 Recent Activity (June 1–21, 2025)
 
----
+[![June 2025 Contributions](https://github-contributions-api.jogruber.de/v4/kiran04-code?from=2025-06-01&to=2025-06-21&theme=radical)](https://github.com/kiran04-code)
 
 ## 📬 Contact Me
 
