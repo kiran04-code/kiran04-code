@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Kiran Santosh Rathod!
 
-<!--
-**kiran04-code/kiran04-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a first-year Computer Science student at Vishwakarma Institute of Technology, Pune.  
+💻 I'm a MERN Stack developer with interests in:
+- 🔐 Cybersecurity
+- 🔗 Blockchain
+- 🌐 IoT
+- 🧠 AI/ML (learning phase)
 
-Here are some ideas to get you started:
+🚀 I build full-stack web apps, tools, and mock interview platforms using Node.js, React, MongoDB, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at:  
+📧 Email: kiran@example.com  
+🌐 Portfolio: [kiran.dev](https://kiran.dev)  
+📷 Instagram: [@kiran.codes](https://instagram.com/kiran.codes)
+
+---
+
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranrathod&show_icons=true&theme=radical)
+
