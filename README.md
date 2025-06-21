@@ -61,13 +61,6 @@
 </p>
 
 ---
-
-## 🚀 June 2025 Highlights (🔥 311 Contributions)
-
-[![June Contributions](https://github-contributions-api.jogruber.de/v4/kiran04-code?from=2025-06-01&to=2025-06-21&theme=react)](https://github.com/kiran04-code)
-
----
-
 ## 📬 Contact Me
 
 - 📧 Email: **kr551344@gmail.com**
