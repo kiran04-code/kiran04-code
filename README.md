@@ -28,24 +28,9 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages, Frameworks & Libraries
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### ⚙️ Tools & Real-Time Systems
-
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+HTML5, CSS3, C++, Solidity, JavaScript (ES6+), TypeScript, React.js, Next.js, React Native, Tailwind CSS, Node.js,  
+Express.js, GraphQL, REST APIs, MongoDB, Prisma ORM, Redis, Socket.IO, WebRTC, Docker, Kubernetes (K8s),  
+Git, GitHub, Postman, AWS EC2, Web3, Ethers.js, Hardhat
 
 ---
 
