@@ -27,10 +27,41 @@
 ---
 
 ## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
 
-HTML5, CSS3, C++, Solidity, JavaScript (ES6+), TypeScript, React.js, Next.js, React Native, Tailwind CSS, Node.js,  
-Express.js, GraphQL, REST APIs, MongoDB, Prisma ORM, Redis, Socket.IO, WebRTC, Docker, Kubernetes (K8s),  
-Git, GitHub, Postman, AWS EC2, Web3, Ethers.js, Hardhat
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_(K8s)-326CE5?style=flat-square&logo=kubernetes)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws)
+
+![Web3](https://img.shields.io/badge/Web3-000000?style=flat-square)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat-square)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat-square&logo=ethereum)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
 
 ---
 
