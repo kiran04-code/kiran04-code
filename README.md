@@ -1,4 +1,4 @@
-imrove tsi i want my all steak and total contrububation and many more <h1 align="center">Hey 👋, I'm Kiran Santosh Rathod</h1>
+ <h1 align="center">Hey 👋, I'm Kiran Santosh Rathod</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F7FF&vCenter=true&center=true&multiline=true&width=700&height=80&lines=👋+Hi%2C+I'm+Kiran+Santosh+Rathod!;💻+Full-Stack+MERN+Developer;" />
